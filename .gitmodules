@@ -1,0 +1,3 @@
+[submodule "discount-price-nutro"]
+	path = discount-price-nutro
+	url = git@github.com:xmarts/discount-price-nutro.git
